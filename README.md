@@ -9,12 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-I loved making things simple... Automatization is my thing!
+<h3 align="left">I loved making things simple... Automatization is my thing!</h3>
 
 <h3 align="left">About me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maría-ponce-b823991b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría-ponce-b823991b5" height="30" width="40" /></a>
-</p>
 
 - 🔭 I’m currently working on [bioinformatic cancer research](https://www.nature.com/articles/s41586-025-09965-1)
 - 🌱 I’m currently learning **FullStack projects**
