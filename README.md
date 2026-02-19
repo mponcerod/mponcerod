@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I have worked as [data scientist focus on cancer research at CICbioGUNE](https://www.nature.com/articles/s41586-025-09965-1). As a reflection of my work, I am the third author in [Polyamine-dependent metabolic shielding regulates alternative splicing](https://www.nature.com/articles/s41586-025-09965-1) published in Nature early this year.
+- 🔭 I have worked as [data scientist focus on cancer research at CICbioGUNE](https://www.nature.com/articles/s41586-025-09965-1). As a reflection of my work, I am the third author in [Polyamine-dependent metabolic shielding regulates alternative splicing](https://www.nature.com/articles/s41586-025-09965-1) published in Nature early this year. Click [here](https://github.com/imendizabalCIC/Polyamine_AlternativeSplicing) to see a reproducible code.
+- T
 - 🌱 I’m currently learning Google Cloud, Power BI, Docker and JavaScript
 - 👯 I’m looking to collaborate on **FullStack projects**
 - 📫 How to reach me **poncerod.maria@gmail.com**
