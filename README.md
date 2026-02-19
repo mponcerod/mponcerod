@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-<h3 align="left">I loved making things simple... Automatization is my thing!</h3>
+<!--<h3 align="left">I loved making things simple... Automatization is my thing!</h3>
+-->
 
 <h3 align="left">About me:</h3>
 
