@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 - 🔭 I have worked as [data scientist focus on cancer research at CICbioGUNE](https://www.nature.com/articles/s41586-025-09965-1). As a reflection of my work, I am the third author in [Polyamine-dependent metabolic shielding regulates alternative splicing](https://www.nature.com/articles/s41586-025-09965-1) published in Nature early this year. Click [here](https://github.com/imendizabalCIC/Polyamine_AlternativeSplicing) to see a reproducible code.
 - 🌱 I’m currently learning Google Cloud, Power BI, Docker and JavaScript
-- 👯 I’m looking to collaborate on **FullStack projects**
+- 👯 I’m working to develop a new webpage in which you can find all the asanas and acroyoga poses, with tips!
 - 📫 How to reach me **poncerod.maria@gmail.com**
-- ⚡ Fun fact about me: I perform acrobatics on top of other people, wildy known as acroyoga. You can might see me flying at some parks and beaches all over Spain.
+- ⚡ A few things about me: I love acroyoga and yoga. I actively participate in the community by organizing jams and workshops. Creating a space free, accessible and creative for everybody is my good to go. 
 
 
 <h3 align="left">Connect with me:</h3>
